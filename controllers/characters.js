@@ -69,10 +69,39 @@ export const updateCharacter = async (req, res) => {
   }
 }
 
+export const updateCharacterName = async (req, res) => {
+  try {
+    const { name } = req.params
+    const character = await Character.findOneAndUpdate({ name:  name}, req.body)
+    res.status(201).json(character)
+
+  } catch (error) {
+    console.error(error)
+    res.status(500).json({error: error.message})
+  }
+}
+
 export const deleteCharacter = async (req, res) => {
   try {
     const { id } = req.params
     const deleted = await Character.findByIdAndDelete(id)
+
+    if (deleted) {
+      return res.status(200).send("Character deleted!")
+    }
+
+    throw new Error("Character not found")
+    
+  } catch (error) {
+    console.error(error)
+    res.status(500).json({error: error.message})
+  }
+}
+
+export const deleteCharacterName = async (req, res) => {
+  try {
+    const { name } = req.params
+    const deleted = await Character.findOneAndDelete({name: name})
 
     if (deleted) {
       return res.status(200).send("Character deleted!")
