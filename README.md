@@ -1,12 +1,10 @@
-# json-api
-
-### Avatar The Last Airbender API
-
-#
+# Avatar The Last Airbender API
 
 Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them, but when the world needed him most, he vanished. A hundred years passed and my brother and I discovered the new Avatar, an airbender named Aang. And although his airbending skills are great, he has a lot to learn before he's ready to save anyone. But I believe Aang can save the world.
 
 #
+
+## Model
 
 Raw data on the characters in ATLA is located in the characters.json file in the seed folder.
 
@@ -24,6 +22,10 @@ let Character = new Schema({
   image: { type: String },
 })
 ```
+
+#
+
+## Routes
 
 The root api is found at the link:
 http://localhost:3000/
