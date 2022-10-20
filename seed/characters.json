@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Aang",
+    "nationality": "Southern Air Temple",
+    "bendingElement": "Air",
+    "weaponOfChoice": ["The elements", "Glider staff"],
+    "fightingStyle": [
+      "Air bending",
+      "Water bending",
+      "Earth bending",
+      "Fire bending",
+      "Energy bending"
+    ],
+    "Affiliations": ["Air Acolytes", "Air Nomads", "Team Avatar"],
+    "isAvatar": true,
+    "quote": "When we hit our lowest point we are open to the greatest change.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/a/ae/Aang_at_Jasmine_Dragon.png"
+  },
+  {
+    "name": "Katara",
+    "nationality": "Southern Water Tribe",
+    "bendingElement": "Water",
+    "weaponOfChoice": ["Water"],
+    "fightingStyle": ["Water bending", "Blood bending"],
+    "Affiliations": ["Southern Water Tribe", "Team Avatar"],
+    "isAvatar": false,
+    "quote": "Stealing is wrong...Unless it's from pirates.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png"
+  },
+  {
+    "name": "Sokka",
+    "nationality": "Southern Water Tribe",
+    "bendingElement": "none",
+    "weaponOfChoice": ["Boomerang", "Sword"],
+    "fightingStyle": ["WaterTribe Warrior Style", "Swordsmanship"],
+    "Affiliations": ["Southern Water Tribe", "Team Avatar"],
+    "isAvatar": false,
+    "quote": "My first girlfriend turned into the moon.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/c/cc/Sokka.png"
+  },
+  {
+    "name": "Toph",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "Earth",
+    "weaponOfChoice": ["Earth", "Metal"],
+    "fightingStyle": ["Earth bending", "Metal bending"],
+    "Affiliations": ["Earth Kingdom", "Team Avatar"],
+    "isAvatar": false,
+    "quote": "I am the greatest earth bender in the world!",
+    "image": "https://static.wikia.nocookie.net/avatar/images/4/46/Toph_Beifong.png"
+  },
+  {
+    "name": "Zuko",
+    "nationality": "Fire Nation",
+    "bendingElement": "Fire",
+    "weaponOfChoice": ["Fire", "Dual broadswords"],
+    "fightingStyle": ["Fire bending", "Swordsmanship"],
+    "Affiliations": ["Fire Nation", "Team Avatar"],
+    "isAvatar": false,
+    "quote": "That's rough, buddy.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png"
+  },
+  {
+    "name": "Iroh",
+    "nationality": "Fire Nation",
+    "bendingElement": "Fire",
+    "weaponOfChoice": ["Fire"],
+    "fightingStyle": ["Fire bending"],
+    "Affiliations": ["Fire Nation", "Order of the White Lotus"],
+    "isAvatar": false,
+    "quote": "Sharing tea with a fascinating stranger is one of life's true delights.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/c/c1/Iroh_smiling.png"
+  },
+  {
+    "name": "Suki",
+    "nationality": "Kyoshi Island",
+    "bendingElement": "none",
+    "weaponOfChoice": ["War Fans", "Katana"],
+    "fightingStyle": ["Chi-Blocking"],
+    "Affiliations": ["Kyoshi Warriors", "Team Avatar", "Earth Kingdom"],
+    "isAvatar": false,
+    "quote": "I am a warrior, but I'm a girl too.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/1/14/Suki.png"
+  },
+  {
+    "name": "Appa",
+    "nationality": "Southern Air Temple",
+    "bendingElement": "Air",
+    "weaponOfChoice": ["Air"],
+    "fightingStyle": ["Air bending"],
+    "Affiliations": ["Team Avatar"],
+    "isAvatar": false,
+    "quote": "You've got to take care of yourself. You can't go on like this.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/6/65/Appa_flying.png"
+  },
+  {
+    "name": "Momo",
+    "nationality": "Southern Air Temple",
+    "bendingElement": "none",
+    "weaponOfChoice": ["none"],
+    "fightingStyle": ["none"],
+    "Affiliations": ["Team Avatar"],
+    "isAvatar": false,
+    "quote": "You, my friend, are just a few plums short of a fruit pie.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/8/80/Momo_staring.png"
+  },
+  {
+    "name": "Bumi",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "Earth",
+    "weaponOfChoice": ["Earth"],
+    "fightingStyle": ["Earth bending"],
+    "Affiliations": ["Earth Kingdom", "Omashu", "Order of the White Lotus"],
+    "isAvatar": false,
+    "quote": "I hope you will think like a mad genius.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/e/e8/King_Bumi.png"
+  },
+  {
+    "name": "Azula",
+    "nationality": "Fire Nation",
+    "bendingElement": "Fire",
+    "weaponOfChoice": ["Fire", "Lightning"],
+    "fightingStyle": ["Fire bending", "Lightning generation"],
+    "Affiliations": ["Fire Nation", "Azula's Team"],
+    "isAvatar": false,
+    "quote": "My own mother thought I was a monster. She was right of course, but it still hurt.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/1/12/Azula.png"
+  },
+  {
+    "name": "Mai",
+    "nationality": "Fire Nation",
+    "bendingElement": "none",
+    "weaponOfChoice": ["Knives", "Stilettos"],
+    "fightingStyle": ["Shuriken-jutsu"],
+    "Affiliations": ["Fire Nation", "Azula's Team"],
+    "isAvatar": false,
+    "quote": "Please tell me you're here to kill me.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/4/40/Mai.png"
+  },
+  {
+    "name": "Ty Lee",
+    "nationality": "Fire Nation",
+    "bendingElement": "none",
+    "weaponOfChoice": ["none"],
+    "fightingStyle": ["Chi-Blocking"],
+    "Affiliations": ["Fire Nation", "Azula's Team", "Kyoshi Warriors"],
+    "isAvatar": false,
+    "quote": "My aura has never been pinker.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/6/6d/Ty_Lee.png"
+  },
+  {
+    "name": "Ozai",
+    "nationality": "Fire Nation",
+    "bendingElement": "Fire",
+    "weaponOfChoice": ["Fire", "Lightning"],
+    "fightingStyle": ["Fire bending", "Lightning generation"],
+    "Affiliations": ["Fire Nation"],
+    "isAvatar": false,
+    "quote": "Even with all the power in the world, you are still weak.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/4/4a/Ozai.png"
+  },
+  {
+    "name": "Zhao",
+    "nationality": "Fire Nation",
+    "bendingElement": "Fire",
+    "weaponOfChoice": ["Fire"],
+    "fightingStyle": ["Fire bending"],
+    "Affiliations": ["Fire Nation", "Fire Nation Navy"],
+    "isAvatar": false,
+    "quote": "It's my destiny to destroy the moon and the Water Tribe.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/e/e1/Commander_Zhao.png"
+  },
+  {
+    "name": "Jet",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "none",
+    "weaponOfChoice": ["Hook swords"],
+    "fightingStyle": ["Swordsmanship"],
+    "Affiliations": ["Freedom Fighters", "Dai Li"],
+    "isAvatar": false,
+    "quote": "My name is Jet, and these are my Freedom Fighters.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/1/1e/Jet.png"
+  },
+  {
+    "name": "Pakku",
+    "nationality": "Northern Water Tribe",
+    "bendingElement": "Water",
+    "weaponOfChoice": ["Water"],
+    "fightingStyle": ["Water bending"],
+    "Affiliations": ["Northern Water Tribe", "Order of the White Lotus"],
+    "isAvatar": false,
+    "quote": "Just because you're destined to save the world, don't expect any special treatment.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/b/bb/Pakku_looking_smug.png"
+  },
+  {
+    "name": "Roku",
+    "nationality": "Fire Nation",
+    "bendingElement": "Fire",
+    "weaponOfChoice": ["The elements"],
+    "fightingStyle": [
+      "Fire bending",
+      "Air bending",
+      "Water bending",
+      "Earth bending",
+      "Lava bending"
+    ],
+    "Affiliations": ["Fire Nation"],
+    "isAvatar": true,
+    "quote": "Make sense of our past, Aang, and you wull bring peace, and restore balance to the world.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/f/f6/Roku.png"
+  },
+  {
+    "name": "Piandao",
+    "nationality": "Fire Nation",
+    "bendingElement": "none",
+    "weaponOfChoice": ["Sword"],
+    "fightingStyle": ["Swordsmanship"],
+    "Affiliations": ["Fire Nation", "Order of the White Lotus"],
+    "isAvatar": false,
+    "quote": "The way of the sword doesn't belong to any one nation. Knowledge of the arts belongs to us all.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/e/e1/Piandao.png"
+  },
+  {
+    "name": "Long Feng",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "Earth",
+    "weaponOfChoice": ["Staff"],
+    "fightingStyle": ["Earth bending"],
+    "Affiliations": ["Earth Kingdom", "Ba Sing Se", "Dai Li"],
+    "isAvatar": false,
+    "quote": "In silencing talk of conflict, Ba Sing Se remains a peaceful, orderly utopia - the last one on Earth.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/8/8d/Long_Feng_scheming.png"
+  },
+  {
+    "name": "Kyoshi",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "Earth",
+    "weaponOfChoice": ["The elements", "War Fans"],
+    "fightingStyle": [
+      "Earth bending",
+      "Fire bending",
+      "Air bending",
+      "Water bending",
+      "Lava bending"
+    ],
+    "Affiliations": ["Earth Kingdom", "Flying Opera Company", "Kyoshi Island"],
+    "isAvatar": true,
+    "quote": "Only justice will bring peace.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/0/07/Avatar_Kyoshi.png"
+  },
+  {
+    "name": "Jeong Jeong",
+    "nationality": "Fire Nation",
+    "bendingElement": "Fire",
+    "weaponOfChoice": ["Fire"],
+    "fightingStyle": ["Fire bending"],
+    "Affiliations": [
+      "Fire Nation",
+      "Fire Nation Navy",
+      "Order of the White Lotus"
+    ],
+    "isAvatar": false,
+    "quote": "Only a fool seeks his own destruction.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/a/a7/Jeong_Jeong_serious.png"
+  },
+  {
+    "name": "Cabbage Merchant",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "none",
+    "weaponOfChoice": ["none"],
+    "fightingStyle": ["none"],
+    "Affiliations": ["Earth Kingdom"],
+    "isAvatar": false,
+    "quote": "My cabbages!",
+    "image": "https://static.wikia.nocookie.net/avatar/images/2/2f/Cabbage_merchant.png"
+  },
+  {
+    "name": "Hama",
+    "nationality": "Southern Water Tribe",
+    "bendingElement": "Water",
+    "weaponOfChoice": ["Water"],
+    "fightingStyle": ["Water bending", "Blood bending"],
+    "Affiliations": ["Southern Water Tribe"],
+    "isAvatar": false,
+    "quote": "My work is done. Congratulations, Katara. You're a bloodbender.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/4/4d/Sinister_Hama.png"
+  },
+  {
+    "name": "The Boulder",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "Earth",
+    "weaponOfChoice": ["Earth"],
+    "fightingStyle": ["Earth bending"],
+    "Affiliations": ["Earth Kingdom", "Earth Rumble"],
+    "isAvatar": false,
+    "quote": "The Boulder feels conflicted about fighting a young, blind girl.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/7/70/The_Boulder.png"
+  },
+  {
+    "name": "June",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "none",
+    "weaponOfChoice": ["Whip"],
+    "fightingStyle": ["none"],
+    "Affiliations": ["Earth Kingdom", "Highest bidder"],
+    "isAvatar": false,
+    "quote": "My shirshu can smell a rat a continent away.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/e/ea/June.png"
+  },
+  {
+    "name": "Hakoda",
+    "nationality": "Southern Water Tribe",
+    "bendingElement": "none",
+    "weaponOfChoice": ["Water Tribe Weapons"],
+    "fightingStyle": ["Water Tribe Warrior Style"],
+    "Affiliations": ["Southern Water Tribe"],
+    "isAvatar": false,
+    "quote": "You and your brother are my entire world. I thought about you every day I was gone, and every night when I went to sleep, I would lie awake missing you so much, it would ache.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/4/4e/Hakoda_smiling.png"
+  },
+  {
+    "name": "Bato",
+    "nationality": "Southern Water Tribe",
+    "bendingElement": "none",
+    "weaponOfChoice": ["Water Tribe Weapons"],
+    "fightingStyle": ["Water Tribe Warrior Style"],
+    "Affiliations": ["Southern Water Tribe"],
+    "isAvatar": false,
+    "quote": "Ice dodging is a ceremonial test of wisdom, bravery, and trust. In our village, ice dodging was done by weaving a boat through a field of icebergs.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/e/e3/Bato_smiling.png"
+  },
+  {
+    "name": "Haru",
+    "nationality": "Earth Kingdom",
+    "bendingElement": "Earth",
+    "weaponOfChoice": ["Earth"],
+    "fightingStyle": ["Earth bending"],
+    "Affiliations": ["Earth Kingdom"],
+    "isAvatar": false,
+    "quote": "Katara inspired me and my father to take back our village.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/d/dd/Haru_fights_back.png"
+  },
+  {
+    "name": "Combustion Man",
+    "nationality": "Fire Nation",
+    "bendingElement": "Fire",
+    "weaponOfChoice": ["Fire"],
+    "fightingStyle": ["Fire bending", "Combustion bending"],
+    "Affiliations": ["Fire Nation", "Contract Employer"],
+    "isAvatar": false,
+    "quote": "",
+    "image": "https://static.wikia.nocookie.net/avatar/images/f/fc/Combustion_Man.png"
+  },
+  {
+    "name": "Gyatso",
+    "nationality": "Southern Air Temple",
+    "bendingElement": "Air",
+    "weaponOfChoice": ["Air"],
+    "fightingStyle": ["Air bending"],
+    "Affiliations": ["Air Nomads", "Council of Elders"],
+    "isAvatar": false,
+    "quote": "We can't concern ourselves with what was. We must act on what is.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/a/a4/Monk_Gyatso.png"
+  },
+  {
+    "name": "Guru Pathik",
+    "nationality": "Eastern Air Temple",
+    "bendingElement": "none",
+    "weaponOfChoice": ["none"],
+    "fightingStyle": ["none"],
+    "Affiliations": ["none"],
+    "isAvatar": false,
+    "quote": "The greatest illusion of this world is the illusion of separation. Things you think are separate and different are actually one and the same.",
+    "image": "https://static.wikia.nocookie.net/avatar/images/9/91/Guru_Pathik.png"
+  }
+]
