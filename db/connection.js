@@ -4,7 +4,7 @@ import chalk from "chalk";
 mongoose.set("returnOriginal", false)
 
 mongoose
-  .connect("mongodb://127.0.0.1:27017/atla-api_db")
+  .connect(process.env.MONGO_URL || "mongodb://127.0.0.1:27017/atla-api_db")
   .catch((err) => {
   console.log(`Error connection go MongoBD: ${err.message}`);
   })
