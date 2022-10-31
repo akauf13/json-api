@@ -4,7 +4,8 @@ import characters from "./characters.json" assert { type: "json" }
 
 const insertData = async () => {
   //reset database
-  await db.dropDatabase()
+  // await db.dropDatabase()
+  await Character.deleteMany({})
   
   //insert data
   await Character.create(characters)
